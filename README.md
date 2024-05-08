@@ -1,8 +1,6 @@
 # ansel-shaders
 
-motion blur shader that works well with nvidia ansel developed by brimson see license
-
-archive of cMotionBlur.fx
+archive of cMotionBlur.fx and Zeal_RimLight.fx
 
 https://web.archive.org/web/20220223160402/https://github.com/brimson/reshaders
 
