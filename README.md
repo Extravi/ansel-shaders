@@ -1,5 +1,7 @@
 # ansel-shaders
 
+motion blur shader that works well with nvidia ansel
+
 archive of cMotionBlur.fx
 
 https://web.archive.org/web/20220223160402/https://github.com/brimson/reshaders
