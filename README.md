@@ -1,6 +1,6 @@
 # ansel-shaders
 
-motion blur shader that works well with nvidia ansel developed by brimson
+motion blur shader that works well with nvidia ansel developed by brimson see license
 
 archive of cMotionBlur.fx
 
